@@ -1,0 +1,20 @@
+title: "Latin America Parkinson's Epidemiology Database"
+description: "Epidemiological database on Parkinson's disease in Latin America, including prevalence rates, incidence data, risk factors and demographic distributions across multiple countries."
+url: "https://juanmoisesd.github.io"
+baseurl: "/latin-america-parkinson-epidemiology-database"
+
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  institution: "Universidad Internacional de Valencia (VIU)"
+  osf: "https://osf.io/7qd29/"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+osf_project: "https://osf.io/s59n3/"
+license: "CC BY 4.0"
